@@ -15,4 +15,8 @@ public class GutendexService {
         ResponseEntity<Map> response = restTemplate.getForEntity(url, Map.class);
         return response.getBody();
     }
+
+    public Map<String, Object> getBooksByAuthor(String author) {
+        return getBooks(author); // Si tu método getBooks ya busca por cualquier texto
+    }
 }
