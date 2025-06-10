@@ -91,16 +91,13 @@ Leer online: https://www.gutenberg.org/ebooks/2000.html.images
 ![Ejemplo de menú](docs/menu-ejemplo.png)
 
 ---
+## 📂 Requisitos previos
+- Java 17 o superior
+- Maven 3.6.0 o superior
+- PostgreSQL 15 o superior  
+- IDE (IntelliJ IDEA, Eclipse, etc.)
+- Conexión a Internet (para acceder a la API de Gutendex)
 
-## 🧪 Pruebas
-
-Ejecuta los tests con:
-
-```sh
-mvn test
-```
-
----
 
 ## 📦 Estructura del proyecto
 
