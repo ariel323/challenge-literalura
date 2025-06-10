@@ -85,11 +85,12 @@ Leer online: https://www.gutenberg.org/ebooks/2000.html.images
 ```
 
 ---
-
-## 🖼️ Capturas de pantalla
-
-![Ejemplo de menú](docs/menu-ejemplo.png)
-
+## 📖 Documentación
+- [API Gutendex](https://gutendex.com/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [PostgreSQL](https://www.postgresql.org/docs/)
+- [Maven](https://maven.apache.org/)
+  
 ---
 ## 📂 Requisitos previos
 - Java 17 o superior
